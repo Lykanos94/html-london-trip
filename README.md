@@ -12,4 +12,5 @@ Procedimento:
 
 5. In sezione main create altre ordered list con all'interno delle unordered list per informazioni utili per il viaggio
 
-6. 
+6. Creato footer per immaggini del viaggio
+
