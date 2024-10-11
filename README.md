@@ -10,3 +10,6 @@ Procedimento:
 
 4. In sezione main creata unordered list per mettere in lista le cose da fare 
 
+5. In sezione main create altre ordered list con all'interno delle unordered list per informazioni utili per il viaggio
+
+6. 
