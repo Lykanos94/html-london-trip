@@ -14,3 +14,4 @@ Procedimento:
 
 6. Creato footer per immaggini del viaggio
 
+7. Aggiunto fine sezione footer
